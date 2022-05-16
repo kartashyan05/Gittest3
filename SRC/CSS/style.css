@@ -1,0 +1,32 @@
+h1 {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 40px;
+  font-size: 40px;
+  color: #126464;
+  text-align: center;
+}
+
+.block {
+  font-size: 22px;
+  display: block;
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 33px;
+  color: #686868;
+}
+
+.crysler {
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.car {
+  display: block;
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
